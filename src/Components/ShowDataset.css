@@ -1,0 +1,20 @@
+.main {
+  max-width: 720px;
+  margin: 15px;
+}
+
+.output_canvas {
+  width: 100%;
+  display: block;
+  position: relative;
+  background-color: whitesmoke;
+}
+
+.input_video {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
